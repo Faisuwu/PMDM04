@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/faisu/Desktop/DAM/ProgramacioMultimedia/Entrega 2/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/faisu/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/faisu/Desktop/DAM/ProgramacioMultimedia/Entrega 4/qrscanner/android/app/.cxx/Debug/625d2m5a/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/faisu/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/faisu/Desktop/DAM/ProgramacioMultimedia/Entrega 4/qrscanner/android/app/.cxx/Debug/625d2m5a/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
